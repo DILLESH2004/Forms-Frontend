@@ -6,9 +6,6 @@ import EmailIcon from '@mui/icons-material/Email';
 import AttachFileIcon from '@mui/icons-material/AttachFile';
 import CodeIcon from '@mui/icons-material/Code';
 import CloseIcon from '@mui/icons-material/Close';
-import FacebookIcon from '@mui/icons-material/Facebook';
-import TwitterIcon from '@mui/icons-material/Twitter';
-import PersonAddIcon from '@mui/icons-material/PersonAdd';
 
 function TabPanel(props: any) {
   const { children, value, index, ...other } = props;

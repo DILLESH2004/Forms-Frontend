@@ -3,7 +3,7 @@ import { Header } from './components/Header/Header';
 import { Mainbody } from './components/Mainbody/Mainbody';
 import Templates from './components/Mainbody/Templates';
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
-import Login from './components/Login';
+// import Login from './components/Login';
 import FormHeader from './components/ConfigureQuestionPaper/FormHEader';
 import CenteredTabs from './components/common/Tabs';
 import { ROUTE_PATHS } from './utils/constants';

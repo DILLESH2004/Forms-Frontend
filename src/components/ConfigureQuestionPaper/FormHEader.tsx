@@ -145,7 +145,7 @@ function FormHeader() {
                 </IconButton>
               </Tooltip>
 
-              <AlertDialog url={`https://gf-clone-c266a.web.app${location.pathname}`} />
+              <AlertDialog url={`https://forms-frontend-s118.onrender.com${location.pathname}`} />
 
               <Tooltip title="More">
                 <IconButton>
